@@ -1,0 +1,8 @@
+{
+	Size = 10 * 10
+	Player_Num = 2
+	First_Color = blue
+	Second_Color = red
+	leave_camp_value = 40
+	Beads_order = 1 2 3 4 5 4
+}
